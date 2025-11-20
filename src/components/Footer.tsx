@@ -25,7 +25,7 @@ const Footer: React.FC = () => {
             </div>
             <p className="text-stone-400 text-sm mb-4 leading-relaxed">On-demand logistics powered by technology</p>
             <div className="flex space-x-3">
-              <a href="#" className="w-9 h-9 rounded-full bg-stone-800/50 hover:bg-orange-600 flex items-center justify-center transition-all duration-300 hover:scale-110 hover:shadow-lg hover:shadow-orange-500/30 group">
+              <a href="https://www.facebook.com/people/Irara-Express/61584243440490/" className="w-9 h-9 rounded-full bg-stone-800/50 hover:bg-orange-600 flex items-center justify-center transition-all duration-300 hover:scale-110 hover:shadow-lg hover:shadow-orange-500/30 group">
                 <Facebook className="w-4 h-4 text-stone-400 group-hover:text-white transition-colors" />
               </a>
               <a href="#" className="w-9 h-9 rounded-full bg-stone-800/50 hover:bg-orange-400 flex items-center justify-center transition-all duration-300 hover:scale-110 hover:shadow-lg hover:shadow-orange-400/30 group">
@@ -44,7 +44,7 @@ const Footer: React.FC = () => {
           <div>
             <h4 className="font-semibold mb-3 text-sm text-white">Company</h4>
             <ul className="space-y-2 text-stone-400 text-sm">
-              <li><a href="#" className="hover:text-orange-400 transition-colors hover:transtone-x-1 inline-block">About Us</a></li>
+              <li><a href="/about" className="hover:text-orange-400 transition-colors hover:transtone-x-1 inline-block">About Us</a></li>
               <li><a href="#" className="hover:text-orange-400 transition-colors hover:transtone-x-1 inline-block">Careers</a></li>
               <li><a href="#" className="hover:text-orange-400 transition-colors hover:transtone-x-1 inline-block">Press</a></li>
               <li><a href="#" className="hover:text-orange-400 transition-colors hover:transtone-x-1 inline-block">Blog</a></li>
@@ -57,7 +57,7 @@ const Footer: React.FC = () => {
             <ul className="space-y-2 text-stone-400 text-sm">
               <li><a href="#" className="hover:text-orange-400 transition-colors hover:transtone-x-1 inline-block">Help Center</a></li>
               <li><a href="#" className="hover:text-orange-400 transition-colors hover:transtone-x-1 inline-block">FAQ</a></li>
-              <li><a href="#" className="hover:text-orange-400 transition-colors hover:transtone-x-1 inline-block">Contact Us</a></li>
+              <li><a href="/contact" className="hover:text-orange-400 transition-colors hover:transtone-x-1 inline-block">Contact Us</a></li>
               <li><a href="#" className="hover:text-orange-400 transition-colors hover:transtone-x-1 inline-block">Safety</a></li>
             </ul>
           </div>

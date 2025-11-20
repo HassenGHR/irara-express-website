@@ -19,8 +19,8 @@ export const services = [
 ];
 
 export const testimonials = [
-  { name: 'Omar Boutique', role: 'E-commerce Store', text: 'Irara Express transformed our delivery operations. Real-time tracking keeps our customers happy!', rating: 5 },
-  { name: 'Sarah Electronics', role: 'Electronics Retailer', text: 'Reliable, fast, and professional. The best delivery partner we\'ve worked with.', rating: 5 },
+  { name: 'Golden Store', role: 'E-commerce Store', text: 'Irara Express transformed our delivery operations. Real-time tracking keeps our customers happy!', rating: 5 },
+  { name: 'Kamel Electronics', role: 'Electronics Retailer', text: 'Reliable, fast, and professional. The best delivery partner we\'ve worked with.', rating: 5 },
   { name: 'Mehdi - Driver', role: 'Independent Driver', text: 'Flexible hours, fair earnings, and great support. Perfect for my lifestyle.', rating: 5 },
 ];
 
